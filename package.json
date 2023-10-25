@@ -3,6 +3,7 @@
   "module": "src/index.ts",
   "type": "module",
   "devDependencies": {
+    "@types/jsdom": "^21.1.4",
     "bun-types": "latest"
   },
   "peerDependencies": {
